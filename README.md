@@ -17,7 +17,7 @@ This repository contains two Python scripts based on Module 3: Control Structure
 ##  Files Included
 
 * `Assig2task1.py`
-* `Assign2task2.py`
+* `Assig2task2.py`
 * `README.md`
 
 ## ✅ How to Run
@@ -26,7 +26,7 @@ Run each script using:
 
 ```bash
 python Assig2task1.py
-python Assign2task2.py
+python Assig2task2.py
 ```
 
 
